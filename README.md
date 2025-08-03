@@ -11,3 +11,4 @@ Bu proje, HotelRunner rezervasyon sisteminden gelen webhook verisini alır, Chat
 Desteklenen API:
 - ChatGPT (OpenAI)
 - HotelRunner HR-v1
+ 
